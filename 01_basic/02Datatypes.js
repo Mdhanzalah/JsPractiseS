@@ -22,3 +22,8 @@ let myObj = {
 const myFunction=function(){
     console.log("Hello Bhopal")
 }
+
+//***************************************************************************** */
+
+//....Memory..................///
+//Stack..(Primitive)//  Heap(Non-primitive)
