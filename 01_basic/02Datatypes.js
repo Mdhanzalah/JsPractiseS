@@ -12,9 +12,9 @@ const heros=["rahil","Azam","Zeyad"]
 
 //Object...
 
-let myObj={
-    name:"Hanzalah"
-    age:23
+let myObj = {
+    name:"Hanzalah",
+    age:23,
 }
 
 //Function...
